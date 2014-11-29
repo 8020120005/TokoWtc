@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ben.tokowtc.Levis" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Levi&apos;s"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/rsz_levis5" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Levi Strauss (lahir 26 Februari 1829 – meninggal 26 September 1902 pada umur 73 tahun) adalah seorang produsen pakaian Amerika Serikat kelahiran Jerman. Namanya menjadi merk jeans Levis.Ia terlahir sebagai Löb Strauß di Buttenheim, Bayern, dari keluarga Yahudi. Pada tahun 1847 Strauss pindah bersama ibu dan 2 saudarinya ke New York, Amerika Serikat untuk bergabung dengan ke-2 saudaranya Jonas dan Louis Löb, yang memiliki bisnis barang kering. Pada 1850 mengubah namanya menjadi Levi Strauss, dan pada tahun 1853 pindah ke San Francisco, California untuk membuka usaha menjual pakaian kepada pekerja tambang, ya namanya juga memulai usaha tentu saja ada tantangan berat yang dihadapi oleh Levi, namun nasib baik berpihak kepadanya,usaha pakaian nya laris pada saat itu. \n Levi bersama penjahit pakaian nya Jacob Davis mengembangkan bahan pakaian denim. Denim adalah bahan kain yang sangat kuat seperti terpal dan pada saat itu pabriknya hanya ada di Genoa, Italia. Pada saat itu hanya ada dua warna pilihan, yaitu biru dan coklat. Proses pencelupan dengan warna biru, lebih murah daripada warna coklat. Bahan Denim ditemukan oleh orang Prancis yang bernama Serge De Nimes. \n Lalu untuk mengurangi biaya, maka Loeb mengambil keputusan untuk mengambil bahan yang berwarna biru saja. Kerjasama antara Loeb dan Jacob ini mereka nyatakan untuk di patenkan lebih dahulu, agar orang lain tidak bisa mengklaim bahwa bahan tersebut milik mereka. Mereka bertemu untuk saling melengkapi, bukan untuk saling bersaing, dan tidak seorangpun dari mereka berdua yang merasa lebih penting daripada yang lainnya dan ini adalah prinsip dari kerjasama. \n Beberapa bulan kemudian, hak paten mereka keluar dan disetujui atas nama dua orang yaitu Levi Strauss dan Jacob Davis. Lalu mereka mulai bekerja dan memesan bahan tersebut dari Genoa Italia. Pembuatan celana dengan : \n • Membuat gambar celana terlebih dahulu.  \n  • Membuat pola dari hasil gambaran celana yang telah dibuat terlebih dahulu. \n • lalu setelah pola dibuat, lalu di buat pada kain dan melakukan potongan kain sesuai dengan pola. \n • Kemudian lubang kancing dibuat dan kancing tembaga untuk mengancing celana dipasang. \n • Lalu dipasang pin-pin dari tembaga di kantong celana agar lebih kuat. \n •  Lalu logo dipasang di belakang celana. \n • Celana digosok dengan batu apung, agar lebih lemas, \n  enak dipakai dan tidak kaku seperti terpal. \n Sejak tahun 1873 inilah, blue jeans mulai meluncur ke pasaran dan kenyataannya masyarakat menyambut dengan senang adanya celana dari bahan yang sangat kuat dan cocok dipakai untuk pekerjaan yang berat seperti di perusahaan pertambangan. Dimana-mana orang mempergunakan celana tersebut, hampir di seluruh San Fransisco hal ini mewabah dan menjadi trend dalam penggunaan celana blue jeans. \n  Hal ini, membuat senang Loeb karena blue jeans yang dia jual laku keras dan menjadi celana favorit pada saat itu. Pada suatu hari, karena terkenalnya blue jeans hasil karya Loeb, sebuah perusahaan pertambangan meminta dibuatkan 10.000 unit celana jeans untuk diberikan perusahaan tersebut pada karyawannya. Hal ini dilakukan perusahaan, karena seorang karyawannya pada saat bekerja dan menaiki tangga terjatuh, tetapi karena mempergunakan celana blue jeans, karyawan tersebut selamat dari kematian akibat kantong celana tersebut menyangkut di suatu besi dan tidak sobek dan karyawan tersebut bergantungan. \n  Permintaan pabrik akan celana blue jeans, memutar otak Loeb, gimana cara memenuhi permintaan yang sangat besar tersebut. Lalu memunculkan ide oleh Loeb untuk mendirikan pabrik, tetapi dia bingung dari mana modalnya. Lalu dia mendapat ide untuk meminjam modal dari bos pertambangan tersebut agar dapat membuat pesanan celana tersebut. Ternyata permohonan Loeb untuk meminjam modal disetujui oleh bos pertambangan tersebut dan dia mendirikan dua pabrik di daerah Market Street dan Fremon Street - San Fransisco. \n Tahun 1880, perusahaan memperoleh keuntungan sebesar US $ 2,4 juta dari penjualan celana Levis tersebut. Usaha Loeb berhasil untuk menciptakan produk celana blue jeans merek Levis yang sangat bermanfaat dan banyak dinikmati orang hingga pada saat ini. \n Sekarang Levis telah beroperasi di 40 negara dan menjual produknya ke 75 negara dan ada pesan Levi Strauss kepada keponakannya dan kepada cucunya sebelum meninggal adalah : \n  ” Pada dasarnya semua pekerjaan adalah mulia dan punya kesempatan untuk jadi besar sekali, oleh karena itu perlu mengerjakan pekerjaan yang kita kuasai dan dilakukan dengan serius. Kalau sudah serius, maka pada suatu saat hal itu akan menghasilkan sesuatu yang luar biasa dan itu terbukti benar.” \n Levi Strauss, ia telah membuat seluruh dunia memakai blue jeans dan celana yang awalnya dikenal sebagai celana buruh tambang itu, sekarang menjadi simbol budaya kaum muda dan menjadi trend, dengan model yang selalu berkembang." />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

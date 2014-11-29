@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TokoWtc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_levis">Levis</string>
+    <string name="title_activity_the__executive">The_Executive</string>
+    <string name="title_activity_mississippi">Mississippi</string>
+
+</resources>
